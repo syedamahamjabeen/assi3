@@ -1,0 +1,188 @@
+	<html>
+	<head>
+<title> Sylani </title>
+<link rel="stylesheet" href="style.css">
+	<body>
+	<div id="a">
+	<ul class="b">
+	<li class="b"><a href="https://www.facebook.com/saylaniwelfare/"><img class="c"src="facebook.png">
+	</img></a></li>
+	<li class="b"><a href="https://twitter.com/OfficialSwit"><img class="c" src="twitterr.png">
+	</img></a></li>
+	<li class="b"><a href="https://www.instagram.com/saylaniwelfare/"><img class="c" src="instagram.png">
+	</img></a></li>
+	<li class="b"><a href="https://www.youtube.com/c/SaylaniWelfareTrustOfficialPage"><img class="c" src="youtube.png">
+	</img></a></li>
+	<li class="b"><a href="https://api.whatsapp.com/send?phone=923331201585&text=&source=&data=&app_absent=">
+	<img class="c" src="whatsapp.png">
+	</img></a></li>
+	</ul>
+	<p id="d">Millions of people's life has changed, millions more awaiting your donation</p>
+	<a href="https://www.saylaniwelfare.com/UK-Ramzan"><p class="e">UK Donor</p></a>
+	<a href="https://www.saylaniwelfare.com/Online-Sadqah"><p class="e">Donate Now</p></a>
+	<a href="https://www.saylaniwelfare.com/result"><p class="e">SMT Result</p></a>
+	</div>
+	
+	<div id="h">
+	<nav>
+	<img id="f" src="logo pic.jpg"></img>
+	
+	<li id="i">Home</li>
+	<li id="j">About</li>
+	<li class="k">Sylani Services</li>
+	<li class="l">Future Project</li>
+	<li class="m">Media</li>
+	<li class="o">Donation</li>
+	<p class="n">News</p>
+	</nav>
+	</div>
+	<div id="q">
+	<img id="r" src="ooo.png"></img>
+	</div>
+	<p id="s"><marquee>
+	 President of Pakistan (Dr. Arif Alvi) Visited Saylani Welfare 
+	 International Trust HeadOffice Karachi. More Details
+	 (News-7 Dated:19-02-2019)  
+	</marquee>
+	</p>
+<div>
+	<h1 id="t">INTRO</h1><h1 id="u">DUCTION</h1><br>          
+	<img id="v" align="center" src="lo.png"></img> 
+</div>
+	<p class="v">Established in May 1999 by famous spiritual and religious scholar Maulana Bashir Ahmed Farooqui, 
+	Saylani Welfare International Trust was built on the fundamentals of breaking the cycle of poverty, 
+	alleviating the financial troubles of the poor, giving people a chance to live a dignified life and
+	spreading happiness.
+	</p>
+	
+	<p class="v">
+	We are an organization that believes in lighting up the lives of underprivileged people across the world. 
+	We endeavor to provide the best quality services in areas including food, education, medical and social welfare 
+	free of cost to people living in the dark. With over 60 different sectors, we feed thousands of hungry people each day,
+	hundreds more are given the hope of life through medical health care, many are educated to become leaders of tomorrow 
+	and several are given the opportunity to stand on their feet financially.
+	</p>
+	
+	<p class="v">
+	Today, we are proud to say that our physical presence extends throughout Pakistan with a vast network of 125 branches 
+	operating in major cities including Karachi, Lahore, Islamabad, Rawalpindi, Hyderabad and Faisalabad. Apart from Pakistan,
+	we have overseas offices in the UK, USA and UAE as well. Our worldwide branches are operating under the guidance of a
+	team of over 2,000 working professionals who help almost 125,000 people on a daily basis
+	</p>
+
+	<p class="v">
+	We strongly believe that a little help goes a long way and our work would not be possible without the generous support 
+	of our valuable donors. Our local and international donors have graciously lent us a hand by supporting our causes and 
+	enabling us to serve the needs of people in need.
+	</p>
+	<div class="w">
+	
+	<li class="y"><img id="y" src="food.png"></img></li>
+	<li class="y"><img id="w" src="family.png"></img></li>
+	<li class="y"><img id="w" src="medical.png"></img></li>
+	<li class="y"><img id="w" src="education.png"></img></li>
+	<br>
+	<li class="x">125,000</li>
+	<li class="z">7,500</li>
+	<li class="z">43,749</li>
+	<li class="z">180,000</li>
+	</div>
+	
+	<div>
+	<h1 id="t">WHAT WE</h1><h1 id="u">&nbsp;ARE DOING?</h1><br>          
+	<img id="v" align="center" src="lo.png"></img> 
+	</div>
+	
+	
+	
+	
+	<div id="aa">
+	<a href="https://www.saylaniwelfare.com/Online-Sadqah"><img id="ac" src="onlinesadqah.png"></img></a>
+	<h3 id="ab">Online Sadqa</h3>
+	</div>
+	<div id="ad">
+	<a href="https://www.saylaniwelfare.com/home#"><img id="af" src="welfare family.png"></img></a>
+	<h3 id="ae">Welfare</h3>
+	</div>
+	<div id="ag">
+	<a href="https://www.saylaniwelfare.com/home#"><img id="ai" src="medicall.png"></img></a>
+	<h3 id="ah">Medical</h3>
+	</div>
+	<br>
+	<div id="aj">
+	<a href="https://www.saylaniwelfare.com/home#"><img id="ak" src="Dastarkhwan.png"></img></a>
+	<h3 id="al">Dastarkhwan</h3>
+	</div>
+	<div id="am">
+	<a href="https://www.saylaniwelfare.com/home#"><img id="an" src="ROPLANT.png"></img></a>
+	<h3 id="ao">RO Plant</h3>
+	</div>
+	<div id="ap">
+	<a href="https://www.saylaniwelfare.com/home#"><img id="aq" src="Educationn.png"></img></a>
+	<h3 id="ar">Education</h3>
+	
+	</div>
+	
+	
+	<div id="as">
+	<H1 class="as">MISSION AND UPCOMING PROJECT</H1><H1 class="ars">Upcoming News</H1>
+	<br>
+	<div class="at"><img id="at" src="Hepatitis.png"></img><p id="att">HEPATITIS</p></div>
+	<div class="au"><img id="au" src="Housing.png"></img><p id="auu">HOUSING SOCIETY</p></div>
+	<br>
+	<div class="av"><img id="av" src="IT.png"></img><p id="avv">IT LITRECY</p></div>
+	<div class="aw"><img id="aw" src="tharparkar.png"></img><p id="aww">THAR PARKAR</p></div>
+	</div>
+	
+	<div>
+	<h1 id="t">IMAGE</h1><h1 id="u">&nbsp;GALLARY</h1><br>          
+	<img id="v" align="center" src="lo.png"></img> 
+	</div>
+	
+	<div id="bc">
+	<li id="ba"><img id="bb" src="hazrat.jpg"></img></li>
+	<li id="ba"><img id="bb" src="hazrat.jpg"></img></li>
+	<li id="ba"><img id="bb"src="hazrat2.jpg"></img></li>
+	<li id="ba"><img id="bb"src="hazrat.jpg"></img></li>
+	</div>
+	
+	<div id="bd">
+	<p id="be"> Useful link</p><p id="bf"> Contact with us</p><br>
+	<div id="bh">
+	<ul class="b">
+	<li class="b"><a href="https://www.facebook.com/saylaniwelfare/"><img class="c"src="facebook.png">
+	</img></a></li>
+	<li class="b"><a href="https://twitter.com/OfficialSwit"><img class="c" src="twitterr.png">
+	</img></a></li>
+	<li class="b"><a href="https://www.instagram.com/saylaniwelfare/"><img class="c" src="instagram.png">
+	</img></a></li>
+	<li class="b"><a href="https://www.youtube.com/c/SaylaniWelfareTrustOfficialPage"><img class="c" src="youtube.png">
+	</img></a></li>
+	<li class="b"><a href="https://api.whatsapp.com/send?phone=923331201585&text=&source=&data=&app_absent=">
+	<img class="c" src="whatsapp.png">
+	</img></a></li>
+	</ul>
+	</div>
+	<p id="bg">Head Office,
+	A-25, Bahadurabad Chowrangi Karachi, Pakistan</p>
+	
+	
+	<li class="xxz">UAN: 111-729-526</li>
+	<li class="xxz">UAN: 111-729-526</li>
+	<li class="xxz">UAN: 111-729-526</li>
+	<li class="xx">USA NO +1(716)941 7792</li>
+	<li class="xx">UK NO (+44)115 970 6256</li>
+	<li class="xxy">info@saylaniwelfare.com</li>
+	<div id="ll">
+	<p id="lll">Copyright © 2020 Saylani Welfare</p>
+	</div>
+	
+	
+	</div>
+	
+	
+	
+	</body>
+	
+	</head>
+	</html>
